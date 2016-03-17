@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+
+    <string name="moviesList">My movies list :</string>
+    <string name="title_activity_single_movie">SingleMovieActivity</string>
+    <string name="singleItem" />
+
+    <string name="movieName">Title:</string>
+    <string name="movieDesc">Movie description:</string>
+    <string name="URL">URL:</string>
+    <string name="showButton">Show</string>
+    <string name="okButtun">OK</string>
+    <string name="cancelButton">CANCEL</string>
+    <string name="editDetailsLoadingDialogTitle">Loading...</string>
+    <string name="editDetailsLoadingDialogMessage">Please wait while loading movie details</string>
+    <string name="editPictureLoadingDialogTitle">Loading...</string>
+    <string name="editPictureLoadingDialogMessage">Please wait while loading movie poster</string>
+    <string name="editErrMsgNoMovieName">Please enter a movie name</string>
+
+    <string name="search">Search:</string>
+    <string name="executeSearch">Go</string>
+    <string name="lookFor" />
+    <string name="internetCancel">Cancel</string>
+    <string name="internetListLoadingDialogTitle">Loading...</string>
+    <string name="internetListLoadingDialogMessage">Please wait while loading movies list</string>
+    <string name="internetErrMsgNoValueEntered">Please enter value to search for</string>
+    <string name="internetErrMsgWebAccessFailed">Failed to access the internet</string>
+    <string name="internetErrMsgNoMovieThisName">Failed to find a movie contains this string - try again</string>
+
+    <!-- MainActivity contextMenu -->
+    <string name="contextEditMovie">Edit movie</string>
+    <string name="contextDeleteMovie">Delete movie</string>
+
+    <!-- MainActivity optionMenu -->
+    <string name="optionDeleteAllMovies">Delete all movie</string>
+    <string name="optionDeleteAllMoviesMsgDialogTitle">Delete all movies</string>
+    <string name="optionDeleteAllMoviesMsgDialogMessage">Are you sure you want to delete all movies?</string>
+    <string name="optionExit">Exit</string>
+    <string name="optionExitMsgDialogTitle">Exit the application</string>
+    <string name="optionExitMsgDialogMessage">Are you sure you want to Exit?</string>
+
+    <!-- MainActivity popupMenu -->
+    <string name="popupAddMovieManually">Add movie manually</string>
+    <string name="popupAddMovieFromInternet">Add movie from internet</string>
+
+</resources>
